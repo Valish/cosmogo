@@ -1,0 +1,28 @@
+{
+  "name": "cosmogo",
+  "version": "0.0.1",
+  "description": "A RESTful Interface for the Universe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valish/cosmogo.git"
+  },
+  "keywords": [
+    "Wikipedia",
+    "Google",
+    "Information"
+  ],
+  "author": "valish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valish/cosmogo/issues"
+  },
+  "homepage": "https://github.com/valish/cosmogo",
+  "dependencies": {
+    "node-wikipedia": "0.0.1"
+  }
+}
